@@ -1,24 +1,29 @@
-#Contact App
+# Contact App
 
 This is a simple contact application built with Firebase. Follow the instructions below to clone and set it up.
 
-##Features
-Add new contacts
-Delete existing contacts
-Update contact information
-Retrieve and display all contacts
+## Features
 
-Getting Started
-###Prerequisites
+- Add new contacts
+- Delete existing contacts
+- Update contact information
+- Retrieve and display all contacts
 
-Node.js and npm installed on your machine.
-A Firebase account.
-Cloning the Repository
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+- A Firebase account.
+
+### Cloning the Repository
+
 First, clone the repository to your local machine:
 
-
+```bash
 git clone https://github.com/aqibhussain2202/contact-app.git
 cd contact-app
+
 Setting Up Firebase
 Create a Firebase Project:
 
